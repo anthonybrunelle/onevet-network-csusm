@@ -1,1 +1,2 @@
 # onevet-network-csusm
+# OneVet Network is a web application aiming to help veterans find support programs offered by Veterans Service Organizations (VSOs), charities, and government agencies through a centralized platform.
